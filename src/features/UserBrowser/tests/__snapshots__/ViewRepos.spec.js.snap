@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewRepos should match snapshot 1`] = `
+<ul
+  className="collection"
+>
+  <li
+    className="collection-item"
+    key="0"
+  >
+    <span
+      className="title"
+    >
+      <a
+        href="http://test.com/test"
+      >
+        test
+      </a>
+    </span>
+    <p>
+      this is a test repo
+    </p>
+  </li>
+</ul>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewUser should match snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-image"
+  >
+    <img
+      alt="test"
+      src="http://test.com/gif"
+    />
+  </div>
+  <div
+    className="card-stacked"
+  >
+    <div
+      className="card-content"
+    >
+      User since: 
+      May 25th 2011
+    </div>
+  </div>
+</div>
+`;

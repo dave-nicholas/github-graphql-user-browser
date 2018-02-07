@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserBrowser should match snapshot 1`] = `
+<React.Fragment>
+  <h1>
+    Github User Browser
+  </h1>
+  <div
+    className="input-field col s6"
+  >
+    <input
+      id="github_username"
+      onChange={[Function]}
+      type="text"
+      value="gaearon"
+    />
+    <label
+      htmlFor="github_username"
+    >
+      Github Username
+    </label>
+  </div>
+  <Apollo(Component)
+    username="gaearon"
+  />
+</React.Fragment>
+`;
